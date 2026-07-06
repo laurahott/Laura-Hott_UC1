@@ -33,3 +33,4 @@ match escolha:
         operacao = "opção inválida"
 
 print(f"o resultado da operação eh {operacao}")
+prit*=("teste de commit")
