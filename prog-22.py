@@ -16,3 +16,4 @@ else:
 print("teste de pull")
 print("teste de push pelo vscode")
 print("teste de push pelo vscode2")
+input("blublubla")
