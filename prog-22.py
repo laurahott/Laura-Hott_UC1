@@ -15,3 +15,4 @@ else:
     print("os dois números são iguais")
 print("teste de pull")
 print("teste de push pelo vscode")
+print("teste de push pelo vscode2")
