@@ -34,3 +34,4 @@ match escolha:
 
 print(f"o resultado da operação eh {operacao}")
 print git=("teste de commit")
+print("teste de push pelo vscode")

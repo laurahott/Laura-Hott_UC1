@@ -14,3 +14,4 @@ elif n2 > n1:
 else:
     print("os dois números são iguais")
 print("teste de pull")
+print("teste de push pelo vscode")
